@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ad 1 EBL",
+    "dimension": "320x250",
+    "link": "https://ebl-car-add-by-bikroy.netlify.app/",
+    "category": "Square"
+  },
+  {
+    "title": "Ad 2 Partex Beverage",
+    "dimension": "300x480",
+    "link": "https://partex-beverage-by-bikroy.netlify.app/",
+    "category": "Sidebar"
+  },
+  {
+    "title": "Ad 3 Fresh LPG Gas",
+    "dimension": "970x90",
+    "link": "https://fresh-lpg-gass-by-bikroy.netlify.app/",
+    "category": "Header"
+  },
+  {
+    "title": "Ad 4 Food Panda",
+    "dimension": "970x90",
+    "link": "https://food-panda-add-by-bikroy.netlify.app/",
+    "category": "Road Block"
+  }
+]
