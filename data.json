@@ -27,7 +27,7 @@
     "title": "Ad 5 Walton",
     "dimension": "140x540",
     "link": "https://walton-by-bikroy.netlify.app/",
-    "category": "Stick"
+    "category": "Sticky"
   },
    {
     "title": "Ad 6 Walton Special Offer",
@@ -40,7 +40,14 @@
     "dimension": "970x250",
     "link": "https://walton-970-250.netlify.app/",
     "category": "paranorma"
+  },
+   {
+    "title": "Ad 8 JBS",
+    "dimension": "300x600",
+    "link": "https://jbs-300-600.netlify.app/",
+    "category": "Sidebar"
   }
+  
     
   
 ]
