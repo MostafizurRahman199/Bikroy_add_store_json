@@ -125,12 +125,21 @@
     "dimension": "300x600",
     "link": "https://suzuki-may-2025-300-600.netlify.app/",
     "category": "Bill Board"
+ },
+  {
+   "title": "Ad 22 Book Filp animation 1",
+    "dimension": "320x250",
+    "link": "https://book-animation1-320-250.netlify.app/",
+    "category": "Detail Rectangle"
  }
-  
-
-
-
-  
+  ,
+  {
+   "title": "Ad 22 Book Filp animation 2",
+    "dimension": "320x250",
+    "link": "https://book-animation2-320-250.netlify.app/",
+    "category": "Detail Rectangle"
+ }
+ 
   
     
   
